@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h3, p {
+    color: #484848;
+    font-family: "Arimo", "Helvetica Neue",Helvetica,Arial,sans-serif;
+    -webkit-font-smoothing: antialiased;
+}
+
+p {
+    font-size: smaller;
+    letter-spacing: 0,5px;
+}
+
+h3 {
+    margin-top: 15px;
+    margin-bottom: 3px;
+
+}

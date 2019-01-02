@@ -1,0 +1,14 @@
+ul {
+    list-style-type: none;
+    display: flex;
+}
+li {
+    margin: 16px;
+}
+
+a {
+    text-decoration: none;
+    color: #484848;
+    font-family: "Arimo", "Helvetica Neue",Helvetica,Arial,sans-serif;
+    -webkit-font-smoothing: antialiased;
+}

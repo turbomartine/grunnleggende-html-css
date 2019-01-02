@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    min-height: 100vh;
+    font-family: "Arimo", "Helvetica Neue",Helvetica,Arial,sans-serif;
+    -webkit-font-smoothing: antialiased;
+}
+
+.container {
+    position: relative;
+    color: white;
+    padding: 5px;
+    height: 236px;
+    display: flex;
+    align-items: center;
+}
+
+img {
+    position: absolute;
+    border-radius: 4px;
+    height: 100%;
+}
+
+h2 {
+    margin: 8px;
+    color: #484848;
+    letter-spacing: 1px;
+}
+.wrapper {
+    position: absolute;
+    margin-left: 15px;
+}
+
+h1 {
+    letter-spacing: 1px;
+    margin-bottom: 30px;
+}
+
+button {
+    padding: 10px;
+    border-radius: 4px;
+    background-color: transparent;
+    color: white;
+    font-size: medium;
+    font-weight: 700;
+}
