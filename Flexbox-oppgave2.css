@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: "Arimo", 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.box {
+align-content: center;
+}
+
+.box1 {
+
+}

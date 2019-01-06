@@ -2,3 +2,34 @@
     margin: 0;
     padding: 0;
 }
+
+body {
+    min-height: 100vh;
+    font-family: "Arimo", "Helvetica Neue",Helvetica,Arial,sans-serif;
+    -webkit-font-smoothing: antialiased;
+}
+
+.container {
+    position: relative;
+    margin: 8px;
+    align-items: center;
+}
+
+.wrapper {
+    position: absolute;
+    top: 60%;
+    color: white;
+    text-align: center;
+    left: 110px;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+h3 {
+    font-size: x-large;
+}
+
+img {
+    filter: brightness(90%);
+    border-radius: 4px;
+}

@@ -1,0 +1,58 @@
+* {
+padding: 0;
+}
+
+
+body {
+    font-family: "Arimo", "Helvetica Neue",Helvetica,Arial,sans-serif;
+
+}
+
+.container {
+    display: flex;
+    line-height: 20.02px;
+    border: 1px solid rgb(72, 72, 72);
+}
+
+.box {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    padding: 15px;
+}
+
+.logo svg {
+    color: rgb(255, 90, 95);
+    width: 50px;
+    flex-basis: 100%;
+    display: flex;
+    align-items:center;
+    padding: 5px;
+    padding-left: 10px;
+}
+
+.box span {
+    display:block;
+    width: 100%;
+}
+img {
+    border-radius: 50%;
+}
+
+input {
+    box-shadow: 2px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(72, 72, 72)
+}
+
+.utleie {
+    margin-left: auto;
+}
+
+.search {
+
+}
+
